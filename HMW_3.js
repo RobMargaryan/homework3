@@ -12,7 +12,7 @@ const fu=function (number_1, number_2, number_3){
 
 const fua=function (){
 
-	return 'Vazgenchik';
+	return 'Hogeban';
 }
   const b = fua(56);
   console.log(b);
